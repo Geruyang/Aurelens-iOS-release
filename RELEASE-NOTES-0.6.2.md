@@ -1,6 +1,6 @@
 # AutoGolden 0.6.2（build 9）发行说明
 
-发行状态：待完成 Apple 分发签名、归档和 TestFlight 上传。
+发行状态：已完成 Apple 分发签名、归档及 IPA 导出。尚未上传 TestFlight 或提交 App Store 审核。
 
 ## 主要变化
 

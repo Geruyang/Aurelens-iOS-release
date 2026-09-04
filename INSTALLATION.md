@@ -2,7 +2,7 @@
 
 ## TestFlight（推荐）
 
-Apple 审核通过测试构建后，开发者会在 TestFlight 邀请中提供安装入口。TestFlight 是 iPhone/iPad 测试 AutoGolden 的推荐方式：系统会验证签名并自动提供更新。
+构建上传并处理完成、完成所需测试配置后，开发者会提供 TestFlight 邀请。外部测试可能需要 Beta App Review。当前尚未上传构建或发布邀请。
 
 ## App Store
 
@@ -10,7 +10,11 @@ Apple 审核通过测试构建后，开发者会在 TestFlight 邀请中提供�
 
 ## 不支持的安装方式
 
-不要将未签名或未知来源的 `.ipa` 文件直接传到 iPhone 后尝试安装。iOS 不支持这种方式；测试包必须采用与设备、TestFlight 或企业分发相符的有效 Apple 签名。
+本仓库中的 `AutoGolden-0.6.2-build9-AppStore.ipa` 已采用 Apple Distribution 签名，但它是供上传 App Store Connect 的分发包，不能通过拷贝到 iPhone、邮件或文件应用直接安装。请等待 TestFlight 邀请或 App Store 上线。
+
+## 开发者上传包
+
+核对 [SHA256SUMS.txt](SHA256SUMS.txt) 后，可通过 Apple Transporter 等 Apple 官方工具上传 IPA。上传前，App Store Connect 应已存在对应应用记录，Bundle ID 为 `com.geruyang.autogolden.apple`。下载 IPA 不代表应用已通过 App Review。
 
 ## 报告问题
 
