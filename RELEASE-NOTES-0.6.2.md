@@ -1,8 +1,11 @@
-# AutoGolden 0.6.2（build 10）发行说明
+# AutoGolden 0.6.2（build 12）发行说明
 
-发行状态：已完成 Apple 分发签名、归档及 IPA 导出。尚未上传 TestFlight 或提交 App Store 审核。
+发行状态：已完成 Apple 分发签名、归档及 IPA 导出。已上传 App Store Connect，尚未提交 App Store 审核。
 
 ## 主要变化
+
+- GDELT 只接收预设黄金主题，不再发送用户原文、持仓或模型 API Key。
+- 新增隐私说明和固定请求测试；用户问题仍仅在同意后发给所选 AI 服务商。
 
 - 设置中新增隐私政策和帮助支持网页入口，支持中英文显示。
 - 调整 iOS 生命周期：移除应用内主动结束进程的功能。

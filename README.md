@@ -4,9 +4,9 @@
 
 ## 当前发布状态
 
-- 已归档版本：0.6.2（build 10），尚未上传 TestFlight 或提交 App Store 审核。
+- 已归档版本：0.6.2（build 12），已上传 App Store Connect，尚未提交 App Store 审核。
 - 支持范围：iPhone 与 iPad，最低 iOS/iPadOS 17.0。
-- [下载 App Store 分发 IPA](downloads/AutoGolden-0.6.2-build10-AppStore.ipa)：供开发者上传 App Store Connect，不可通过拷贝到 iPhone 直接安装。
+- [下载 App Store 分发 IPA](downloads/AutoGolden-0.6.2-build12-AppStore.ipa)：供开发者上传 App Store Connect，不可通过拷贝到 iPhone 直接安装。
 - 用户测试安装入口将在 TestFlight 构建处理完成后提供。
 - [SHA-256 校验值](SHA256SUMS.txt) · [构建验证记录](VERIFICATION.md)
 

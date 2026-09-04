@@ -2,7 +2,7 @@
 
 ## TestFlight（推荐）
 
-构建上传并处理完成、完成所需测试配置后，开发者会提供 TestFlight 邀请。外部测试可能需要 Beta App Review。当前尚未上传构建或发布邀请。
+构建上传并处理完成、完成所需测试配置后，开发者会提供 TestFlight 邀请。外部测试可能需要 Beta App Review。构建已上传，尚未发布邀请。
 
 ## App Store
 
@@ -10,7 +10,7 @@
 
 ## 不支持的安装方式
 
-本仓库中的 `AutoGolden-0.6.2-build10-AppStore.ipa` 已采用 Apple Distribution 签名，但它是供上传 App Store Connect 的分发包，不能通过拷贝到 iPhone、邮件或文件应用直接安装。请等待 TestFlight 邀请或 App Store 上线。
+本仓库中的 `AutoGolden-0.6.2-build12-AppStore.ipa` 已采用 Apple Distribution 签名，但它是供上传 App Store Connect 的分发包，不能通过拷贝到 iPhone、邮件或文件应用直接安装。请等待 TestFlight 邀请或 App Store 上线。
 
 ## 开发者上传包
 
