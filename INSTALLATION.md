@@ -10,7 +10,7 @@
 
 ## 不支持的安装方式
 
-本仓库中的 `AutoGolden-0.6.2-build9-AppStore.ipa` 已采用 Apple Distribution 签名，但它是供上传 App Store Connect 的分发包，不能通过拷贝到 iPhone、邮件或文件应用直接安装。请等待 TestFlight 邀请或 App Store 上线。
+本仓库中的 `AutoGolden-0.6.2-build10-AppStore.ipa` 已采用 Apple Distribution 签名，但它是供上传 App Store Connect 的分发包，不能通过拷贝到 iPhone、邮件或文件应用直接安装。请等待 TestFlight 邀请或 App Store 上线。
 
 ## 开发者上传包
 

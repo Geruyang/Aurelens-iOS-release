@@ -1,1 +1,2 @@
 87342ce9077c175f42e2ce831960adcd7f6ff80962ed7df622272c50ddf660fe  downloads/AutoGolden-0.6.2-build9-AppStore.ipa
+9bfcd1086f7cd6712277e6303227725247a939ee84b50a38927299c5b8bdb73f  downloads/AutoGolden-0.6.2-build10-AppStore.ipa
