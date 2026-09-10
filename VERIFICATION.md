@@ -1,3 +1,5 @@
+> Update, 2026-09-10: build 18 navigation/capture checks now passed on a physical iPhone and iPad simulator. See [the capture report](CAPTURE-0.6.3-build18-round2.md). The packaging-time report below is retained as historical evidence.
+
 # Aurelens 0.6.3（build 18）验证与交付报告
 
 日期：2026-09-10。环境：macOS 26.6.2、Xcode 26.6（17F113）、iOS/iPadOS Simulator 26.5。

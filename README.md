@@ -23,10 +23,12 @@ The store name and subtitle reflect the final approved branding; gold probabilit
 - [Verification report](VERIFICATION.md)
 - [Icon and store metadata](AppStore-Media/0.6.3-build18/)
 - [Installation information](INSTALLATION.md)
-- [Public website](https://geruyang.github.io/AutoGolden-iOS-release/)
+- [Build 18 screenshots and recordings — round 2](AppStore-Media/0.6.3-build18/2026-09-10-round2/)
+- [Capture report and repository migration](CAPTURE-0.6.3-build18-round2.md)
+- [Public website](https://geruyang.github.io/Aurelens-iOS-release/)
 
-The public IPA is a developer upload artifact, not a directly installable iPhone package. Physical-device testing, App Store Connect upload and review submission have not been performed. The registered-device development IPA, installation script and signed archive remain in the developer’s local release folder and on their Mac desktop.
+The public IPA is a developer upload artifact, not a directly installable iPhone package. Build 18 physical-device navigation/capture checks have passed on iPhone 17 Pro Max, with a separate iPad simulator capture. This does not cover every device feature. App Store Connect upload and review submission have not been performed. The registered-device development IPA, installation script and signed archive remain in the developer’s local release folder and on their Mac desktop.
 
-Source repository: [Geruyang/AutoGolden-iOS](https://github.com/Geruyang/AutoGolden-iOS) (private). Repository names and bundle identifier are retained for continuity; the consumer brand is Aurelens.
+Source repository: [Geruyang/Aurelens-iOS](https://github.com/Geruyang/Aurelens-iOS) (private). The repositories have been renamed to Aurelens; the bundle identifier and historical releases are retained for continuity.
 
 This tool does not execute trades. Data and research estimates may be delayed or inaccurate and are not investment advice.
