@@ -1,0 +1,17 @@
+Gold im Zusammenhang verstehen.
+
+Aurelens verbindet zehn Chart-Zeitrahmen, globale Ereignisrisiken und manuell erfasste Goldbestände in einer XAU/USD-Rechercheansicht.
+
+ZEHN ZEITRAHMEN
+Vergleichen Sie 1, 5, 15 und 30 Minuten, 1 und 4 Stunden sowie Tages-, Wochen-, Monats- und Jahrescharts. Nutzen Sie zeitrahmenübergreifende Trends mit EMA, RSI, MACD, ATR, ADX und Volatilität.
+
+EREIGNISSE NEBEN DEM CHART
+Prüfen Sie vergangene, bevorstehende und anhaltende globale Risiken sowie Goldnachrichten mit Quellenlinks. Wahrscheinlichkeiten und Bandbreiten für zwei Tage und eine Woche sind unsichere Schätzungen, keine Garantien.
+
+KI MIT KONTEXT
+Stellen Sie OpenAI, DeepSeek oder GLM nach Ihrer Einwilligung Fragen zur aktuellen Analyse und zu notwendigen Zusammenfassungen Ihrer manuell erfassten Bestände. Ein eigener API-Schlüssel ist erforderlich; der Anbieter kann Gebühren berechnen. Schlüssel werden in Keychain gespeichert.
+
+MANUELLE BESTÄNDE
+Erfassen Sie Bestände mit Gewinn-/Verlustreferenzen in USD oder CNY, Änderungsvorschau und Rückgängig-Funktion. Die App verbindet keine Brokerkonten und führt keine Geschäfte aus.
+
+Die App-Oberfläche unterstützt Englisch und vereinfachtes Chinesisch. Diese deutsche Store-Beschreibung bedeutet keine deutsche App-Oberfläche. Daten und KI-Ausgaben können verzögert, unvollständig oder fehlerhaft sein. Nur für Marktforschung und Bildung, keine Anlageberatung.

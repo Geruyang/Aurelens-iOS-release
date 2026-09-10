@@ -1,67 +1,59 @@
-# AutoGolden 0.6.3（build 17）测试与交付报告
+# Aurelens 0.6.3（build 18）验证与交付报告
 
 日期：2026-09-10。环境：macOS 26.6.2、Xcode 26.6（17F113）、iOS/iPadOS Simulator 26.5。
 
-## 变更范围
+## 品牌与变更范围
 
-仅更新名称资源、图标和版本号；增加商店元数据、独立 UI 回归工程及打包/验证工具。8 个应用 Swift 文件与基线 `f43012c1052dea1b601819c53ce616fc133e6363` 逐字节相同。Bundle ID、隐私清单、权限、后台任务标识、设备支持范围和最低系统版本保持一致。
+- 商店名称：**Aurelens: Gold Market Insights**。
+- 副标题：**10 Timeframes, AI & Event Risk**。
+- 主张：Read gold in context. / 把黄金走势、事件与持仓放在一起看。
+- 重点：十周期共识、全球事件风险、结合当前分析和必要手动持仓摘要的 AI 问答。AI 需自行配置 API Key，提供商可能收费。
+- 主屏幕和应用内名称统一 Aurelens；深蓝金条与走势线图标沿用本次 build 17 已生成的图标。
+- 增加英国、德国、法国、意大利、西班牙商店文案；应用界面仍仅为英文和简体中文。
 
-中文名称：AutoGolden黄金行情。副标题：伦敦金走势、技术指标与持仓记录。
-英文名称：AutoGolden: Gold Price Tracker。副标题：XAU/USD Charts & Portfolio。
-主屏幕名称按系统语言显示为 AutoGolden黄金 / AutoGolden Gold。
+以源码提交 `a962e9b9fad12c53cefea2f495af2119dbad6294`（build 17）为基线：6 个业务 Swift 文件逐字节一致；另外 2 个文件仅替换可见品牌与公开政策/支持地址。验证脚本按这些精确替换规则比较原始内容，拒绝其他源码变化。Bundle ID、数据存储标识、权限、隐私清单、最低系统版本不变。没有改动行情、指标、事件、概率、持仓、AI、通知或用户设置逻辑。
 
-## 测试结果
+## 验证结果
 
 | 检查 | 结果 |
 | --- | --- |
-| 项目结构、plist、资源引用、隔离与敏感字面量校验 | 通过 |
-| 功能源码、权限及隐私清单与基线一致性 | 通过 |
-| 商店名称/副标题长度、关键词长度、7 个 RGB 无透明图标尺寸 | 通过 |
-| macOS 单元测试 | 37/37，0 失败 |
+| 项目结构、plist、资源、敏感字面量与脚本语法 | 通过 |
+| 限定品牌替换、权限及隐私清单一致性 | 通过 |
+| 7 个 RGB 图标与 7 组商店元数据长度 | 通过 |
 | iPhone 17 Pro Max 模拟器单元测试 | 37/37，0 失败 |
 | iPad Pro 13-inch (M5) 模拟器单元测试 | 37/37，0 失败 |
-| iPhone 最终 UI 回归 | 2/2，0 失败 |
-| iPad 最终 UI 回归 | 2/2，0 失败 |
+| macOS 单元测试 | 37/37，0 失败 |
+| iPhone 模拟器 UI 回归 | 2/2，0 失败 |
+| iPad 模拟器 UI 回归 | 2/2，0 失败 |
 | iOS Release 模拟器静态分析/编译 | 通过，包含 x86_64 与 arm64 |
-| macOS Release 静态分析与编译 | 通过 |
-| iOS arm64 Release 签名归档 | 通过 |
-| debugging 开发包与 app-store-connect 发行包导出 | 均通过 |
-| 两个 IPA ZIP 完整性、签名、版本、本地化名称及设备族 | 均通过 |
-| 开发包设备列表存在、公开发行包无设备列表 | 通过 |
-| 安装脚本离线正常包检查 | 通过，未调用真机安装 |
-| 安装脚本缺失文件及损坏包拒绝路径 | 通过，非零退出，未调用真机安装 |
-| 旧版隐私政策与支持网页 | HTTP 200 |
-| 现有行情源联网检查 | 初次 HTTP 502；复测 HTTP 200，返回 1000 根小时线；观察到应用恢复显示行情 |
+| macOS Release 静态分析/编译 | 通过 |
+| iOS arm64 Release 自动签名归档 | 通过 |
+| debugging 和 app-store-connect 两类导出 | 均通过 |
+| 两个 IPA 的 ZIP 完整性、代码签名、Bundle ID、build 18、Aurelens 双语显示名 | 均通过 |
+| 开发包设备列表存在，商店包无设备列表 | 通过 |
+| 安装脚本正常包离线检查 | 通过，没有安装或连接真机 |
+| 安装脚本缺失/损坏包拒绝 | 均以非零状态退出 |
+| 当前行情源联网检查 | HTTP 200，1,000 根小时线 |
+| 英文网站桌面及 440px 手机布局、隐私/支持导航、图片和样式链接 | 通过 |
 
-UI 回归覆盖风险提示拒绝、重新阅读、同意、七个页面导航、语言切换与重启保留、主屏幕名称和图标截图。数据加载允许应用本身的明确标识演示回退，不把演示数据当作实时行情成功。
+UI 回归覆盖风险提示拒绝、重新阅读与同意、七个页面导航、语言切换及重启保留、主屏幕品牌。已检查 iPhone 主屏幕以及 iPhone/iPad 总览截图。iPad 总览截图出现既有“行情响应格式无法识别”演示回退提示；英文界面中该错误提示仍为中文。独立小时线探测同时返回 HTTP 200，不能据此认定全部周期实时源都稳定。这两项既有行为记录为后续功能改进，不在本次品牌更新中改动。行情演示回退是既有功能，不以出现演示数据代表实时数据成功。
 
-## 测试过程中的修正
+网页初次加载缺少 favicon，已添加现有品牌图标链接并复查资源 HTTP 200。Playwright 使用本机已有 Chromium for Testing 与随桌面应用提供的 CLI，无需变更系统 Node 环境。Xcode 的 LLDB 版本提示、未使用 AppIntents 时跳过提取提示，以及 UI Runner 的启动画面提示未阻止测试或发行编译。
 
-初次手动签名归档被 Xcode 拒绝，因为本机使用 Xcode 管理的描述文件；改用自动签名后归档与两种导出均成功，没有修改证书或应用权限。
+## 交付与追溯
 
-最初 UI 脚本使用总览导航标题作为断言。日志和视图层级确认原有总览内嵌图表可在加载后将标题覆盖为 London spot gold；最终改为验证总览独有的 Multi-timeframe trend 内容，并等待导航动画稳定。应用 UI 与功能源码保持不变。初始失败日志保留，最终通过结果以最终 xcresult 为准。
+- Bundle ID：`com.geruyang.autogolden.apple`。版本 0.6.3，构建 18；最低 iOS/iPadOS 17.0。
+- 桌面：`Aurelens-0.6.3-build18-iPhone.ipa`、同名 `.ipa.sha256`、`安装Aurelens到iPhone.command`、安装说明和测试报告。
+- 开发 IPA SHA-256：`641f86f43d8f799e0afa46cd6299aca496408b0d4cb85efe5e0fddb653d4537a`。
+- App Store IPA SHA-256：`1deb1123ec24a65b26f37372098642791328b456d8551e86b7d7fa60cef2d21e`。
+- 源码：`/Users/geruyang/AIProject/AutoGolden-iOS`。
+- 发行：`/Users/geruyang/AIProject/AutoGolden-iOS-release`。
+- 原始日志、xcresult 与模拟器截图：源码 `build/verification18/`；网页截图：`output/playwright/`。
+- 签名归档、开发包和安装资料：发行 `local/0.6.3-build18/`，Git 忽略。旧 build 17 桌面文件保存在 `local/0.6.3-build17/desktop-originals/`。
+- GitHub 指定仓库：`Geruyang/AutoGolden-iOS`（私有源码）、`Geruyang/AutoGolden-iOS-release`（公开发行）。发布标签 `v0.6.3-build18`。
 
-Xcode 发出未使用 AppIntents 时跳过元数据提取的提示；UI 测试 Runner 另有启动画面及启动指标提示。这些不是发布应用的编译错误。
+## 未执行事项
 
-## 安装与发行
+按请求未做真机安装和测试。真实个人 API Key 的付费模型调用、真机通知、实际系统后台调度仍需后续验证；未调用用户的付费账号。单元测试与模拟器验证不能替代这些实际服务/设备测试。
 
-- Bundle ID：`com.geruyang.autogolden.apple`；版本：0.6.3；构建：17。
-- 最低系统：iOS/iPadOS 17.0，iPhone/iPad。
-- 桌面：`AutoGolden-0.6.3-build17-iPhone.ipa`、同名 `.ipa.sha256` 文件、`安装AutoGolden到iPhone.command` 与安装说明。
-- 本地源码：`/Users/geruyang/AIProject/AutoGolden-iOS`。
-- 本地发行：`/Users/geruyang/AIProject/AutoGolden-iOS-release`。
-- GitHub 源码：`https://github.com/Geruyang/AutoGolden-iOS`（私有）。
-- GitHub 发行：`https://github.com/Geruyang/AutoGolden-iOS-release`（公开）。
-- 原下划线仓库保留历史和政策链接，新的连字符仓库继承其历史。
-- 原始测试报告、日志与截图位于源码 `build/verification/`，签名归档同时保存在发行目录的 `local/0.6.3-build17/`。
-
-开发包 SHA-256：`992f341d92ab4784b7c93e02877e550c1e1eb92b81f8ab164ccdb8d09e6782c2`。
-App Store 发行包 SHA-256：`969f991017a8eb26e306a9d05288b77e2806c4970f702bbe08f5ceb8485e0f64`。
-
-## 未执行及外部限制
-
-按请求未安装或测试真机。带个人 API Key 的付费模型调用、真机通知交付、系统后台调度与实际设备兼容性未验证，须由用户继续测试。本次没有调用用户的付费模型账号。
-
-未上传 App Store Connect、未验证商店名称占用、未提交审核、未修改销售地区。名称与副标题已备好，但商店搜索流量效果需要上线后观察。行情源曾出现 HTTP 502，复测已恢复 HTTP 200 并返回 1000 根小时线；此结果仅证明检查时可用，已记录间歇性外部服务问题。本次品牌更新没有改动数据源。
-
-对应源码提交：`a962e9b9fad12c53cefea2f495af2119dbad6294`。
+未上传 App Store Connect、验证名称占用、开启 TestFlight、提交审核或改变销售地区。名称检索不是商标清查，流量提升需上线后用数据验证。已有行情服务在 build 17 检查时曾短暂返回 HTTP 502；本次 HTTP 200 仅证明检查时可用。

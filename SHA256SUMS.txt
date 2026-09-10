@@ -7,3 +7,5 @@ bc2332ddde56213dc70f9739081f1e76a36887053c53be13d823ed26644928ab  AppStore-Media
 
 
 969f991017a8eb26e306a9d05288b77e2806c4970f702bbe08f5ceb8485e0f64  downloads/AutoGolden-0.6.3-build17-AppStore.ipa
+1deb1123ec24a65b26f37372098642791328b456d8551e86b7d7fa60cef2d21e  downloads/Aurelens-0.6.3-build18-AppStore.ipa
+f494aad3c70f63071f4482ba17acfe33ff1892f35d58d1a899ee02d5e51b861a  AppStore-Media/0.6.3-build18/AppIcon-1024.png

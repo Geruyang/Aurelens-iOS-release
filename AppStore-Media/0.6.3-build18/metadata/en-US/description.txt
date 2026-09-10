@@ -1,0 +1,17 @@
+Read gold in context.
+
+Aurelens brings ten chart timeframes, global event risk and your manually recorded gold holdings into one XAU/USD research workspace. Move from a short-term price move to the wider trend, then ask your chosen AI provider about the current analysis.
+
+TEN TIMEFRAMES, ONE WIDER VIEW
+Explore 1m, 5m, 15m, 30m, 1h, 4h, daily, weekly, monthly and yearly charts. Compare multi-timeframe consensus alongside EMA, RSI, MACD, ATR, ADX and volatility, with research watch zones.
+
+PUT EVENT RISK BESIDE THE CHART
+Review recent, upcoming and continuing global risks, plus gold-related news with source links. Consider market context alongside two-day and one-week probability estimates and ranges. Estimates are uncertain and are not guarantees.
+
+ASK AI WITH MARKET AND HOLDING CONTEXT
+After your consent, ask OpenAI, DeepSeek or GLM about the current analysis and necessary summaries of your manually entered holdings. Requires your own API key; provider charges may apply. Keys are stored in Keychain.
+
+KEEP A MANUAL GOLD RECORD
+Record holdings, preview changes, undo edits and review reference profit or loss in USD or CNY. Aurelens does not connect brokerage accounts or execute trades.
+
+The app interface supports English and Simplified Chinese. Store listing translations do not add other interface languages. Market data and AI output may be delayed, incomplete or inaccurate. For market research and education; not investment advice.

@@ -1,0 +1,1 @@
+price,tracker,bullion,spot,chart,technical,analysis,trend,indicator,RSI,MACD,news,calendar,portfolio

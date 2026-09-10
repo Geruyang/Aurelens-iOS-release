@@ -1,19 +1,29 @@
-# AutoGolden 黄金行情 / Gold Price Tracker
+# Aurelens: Gold Market Insights
 
-本仓库保存 iPhone/iPad 发行包、商店素材、元数据和验证摘要。应用源码位于 [Geruyang/AutoGolden-iOS](https://github.com/Geruyang/AutoGolden-iOS)（私有仓库）。
+**10 Timeframes, AI & Event Risk**
 
-当前版本：**0.6.3（build 17）**，更换名称与图标，功能保持不变。已生成签名安装包，尚未进行此次版本的真机测试，也未上传 App Store Connect 或提交审核。
+Read gold in context. Aurelens brings ten chart timeframes, global event risk and your manually recorded gold holdings into one XAU/USD research workspace.
 
-- [App Store 发行 IPA](downloads/AutoGolden-0.6.3-build17-AppStore.ipa)：供开发者后续上传，不能直接安装到 iPhone。
-- [新图标与中英文元数据](AppStore-Media/0.6.3-build17/)
-- [SHA-256 校验](SHA256SUMS.txt)
-- [版本说明](RELEASE-NOTES-0.6.3.md) · [验证报告](VERIFICATION.md) · [安装说明](INSTALLATION.md)
+- Compare multi-timeframe consensus from one-minute to yearly charts with technical indicators.
+- Put recent, upcoming and continuing global risks beside news and probability estimates.
+- Ask OpenAI, DeepSeek or GLM about current analysis and necessary manual-holding summaries after consent. Requires your own API key; provider charges may apply.
 
-名称：AutoGolden黄金行情；副标题：伦敦金走势、技术指标与持仓记录。
-英文：AutoGolden: Gold Price Tracker；副标题：XAU/USD Charts & Portfolio。
+App interface: English and Simplified Chinese. Store metadata additionally covers British English, German, French, Italian and Spanish. Existing functionality is unchanged by this branding update.
 
-本地源码位于 `/Users/geruyang/AIProject/AutoGolden-iOS`，发行资料位于 `/Users/geruyang/AIProject/AutoGolden-iOS-release`。开发测试 IPA 与安装脚本已交付到本机桌面，并备份于发行目录 `local/0.6.3-build17/`；此目录不上传 GitHub。公开发行包不包含测试设备登记列表。
+## Current developer release
 
-旧下划线仓库保留历史与政策网页，应用内已有支持和隐私链接继续可用。新仓库保留原有 Git 历史。本次不改变销售地区、数据源、账户授权方式或功能。
+**0.6.3 build 18 — 2026-09-10**
 
-原有行情源首次联网检查返回 HTTP 502，复测恢复 HTTP 200 并返回 1000 根小时线；外部服务的间歇性问题已记录于验证报告。
+- [Release notes](RELEASE-NOTES-0.6.3-build18.md)
+- [App Store upload IPA](downloads/Aurelens-0.6.3-build18-AppStore.ipa)
+- [Checksums](SHA256SUMS.txt)
+- [Verification report](VERIFICATION.md)
+- [Icon and store metadata](AppStore-Media/0.6.3-build18/)
+- [Installation information](INSTALLATION.md)
+- [Public website](https://geruyang.github.io/AutoGolden-iOS-release/)
+
+The public IPA is a developer upload artifact, not a directly installable iPhone package. Physical-device testing, App Store Connect upload and review submission have not been performed. The registered-device development IPA, installation script and signed archive remain in the developer’s local release folder and on their Mac desktop.
+
+Source repository: [Geruyang/AutoGolden-iOS](https://github.com/Geruyang/AutoGolden-iOS) (private). Repository names and bundle identifier are retained for continuity; the consumer brand is Aurelens.
+
+This tool does not execute trades. Data and research estimates may be delayed or inaccurate and are not investment advice.

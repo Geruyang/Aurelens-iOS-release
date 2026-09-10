@@ -1,0 +1,17 @@
+Leggi l’oro nel suo contesto.
+
+Aurelens riunisce dieci intervalli grafici, i rischi degli eventi globali e le posizioni in oro inserite manualmente in uno spazio di ricerca XAU/USD.
+
+DIECI INTERVALLI
+Confronta grafici a 1, 5, 15 e 30 minuti, 1 e 4 ore, giornalieri, settimanali, mensili e annuali. Valuta il consenso tra intervalli con EMA, RSI, MACD, ATR, ADX e volatilità.
+
+EVENTI ACCANTO AI GRAFICI
+Esamina rischi recenti, imminenti e persistenti e notizie sull’oro con link alle fonti. Probabilità e intervalli a due giorni e una settimana sono stime incerte, senza garanzie.
+
+IA CON CONTESTO
+Dopo il consenso, chiedi a OpenAI, DeepSeek o GLM informazioni sull’analisi attuale e sui riepiloghi necessari delle posizioni manuali. Serve una chiave API propria; il fornitore può applicare costi. Le chiavi sono salvate in Keychain.
+
+POSIZIONI MANUALI
+Registra posizioni, consulta profitti o perdite indicativi in USD o CNY, visualizza le modifiche in anteprima e annullale. L’app non collega conti di intermediazione e non esegue operazioni.
+
+L’interfaccia supporta solo inglese e cinese semplificato. Questa descrizione italiana non aggiunge un’interfaccia italiana. Dati e risposte IA possono essere ritardati, incompleti o inesatti. Solo ricerca e formazione sui mercati, non consulenza finanziaria.
