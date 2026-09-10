@@ -1,0 +1,7 @@
+.DS_Store
+local/
+*.xcarchive/
+*.xcresult/
+*.mobileprovision
+*.p12
+*.p8

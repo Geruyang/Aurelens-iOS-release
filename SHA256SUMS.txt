@@ -5,3 +5,5 @@ d2cdb19ac6e5624426fd2b514a208add697688b9c462026587af5a15f235e3ba  downloads/Auto
 ab25d7059423fa95bcf666c26529617105b7a4a4d62e378eeb7c912c21572926  AppStore-Media/0.6.2-build16/App-Previews/AutoGolden-iPad-13-App-Preview.mp4
 bc2332ddde56213dc70f9739081f1e76a36887053c53be13d823ed26644928ab  AppStore-Media/0.6.2-build16/App-Previews/AutoGolden-iPhone-6.9-App-Preview.mp4
 
+
+969f991017a8eb26e306a9d05288b77e2806c4970f702bbe08f5ceb8485e0f64  downloads/AutoGolden-0.6.3-build17-AppStore.ipa

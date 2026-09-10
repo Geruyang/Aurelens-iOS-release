@@ -1,28 +1,19 @@
-# AutoGolden iOS 发布中心
+# AutoGolden 黄金行情 / Gold Price Tracker
 
-这里仅保存 AutoGolden 的 iPhone/iPad 发行资料：App Store 分发 IPA、发行说明、校验值、隐私政策、支持页面及 App Store 截图/预览；不包含应用源代码。
+本仓库保存 iPhone/iPad 发行包、商店素材、元数据和验证摘要。应用源码位于 [Geruyang/AutoGolden-iOS](https://github.com/Geruyang/AutoGolden-iOS)（私有仓库）。
 
-## 当前发布状态
+当前版本：**0.6.3（build 17）**，更换名称与图标，功能保持不变。已生成签名安装包，尚未进行此次版本的真机测试，也未上传 App Store Connect 或提交审核。
 
-- 当前版本：0.6.2（build 16），已完成签名归档、真机测试并上传 App Store Connect，等待在版本页选择构建后提交审核。
-- 支持范围：iPhone 与 iPad，最低 iOS/iPadOS 17.0。
-- 销售范围：全球，但排除中国大陆。
-- [下载 App Store 分发 IPA](downloads/AutoGolden-0.6.2-build16-AppStore.ipa)：供开发者上传 App Store Connect，不可通过拷贝到 iPhone 直接安装。
-- [App Store 截图与预览](AppStore-Media/0.6.2-build16/)：包含中英文 iPhone/iPad 截图和对应 App Preview。
-- [SHA-256 校验值](SHA256SUMS.txt) · [构建验证记录](VERIFICATION.md)
+- [App Store 发行 IPA](downloads/AutoGolden-0.6.3-build17-AppStore.ipa)：供开发者后续上传，不能直接安装到 iPhone。
+- [新图标与中英文元数据](AppStore-Media/0.6.3-build17/)
+- [SHA-256 校验](SHA256SUMS.txt)
+- [版本说明](RELEASE-NOTES-0.6.3.md) · [验证报告](VERIFICATION.md) · [安装说明](INSTALLATION.md)
 
-## 版本分支
+名称：AutoGolden黄金行情；副标题：伦敦金走势、技术指标与持仓记录。
+英文：AutoGolden: Gold Price Tracker；副标题：XAU/USD Charts & Portfolio。
 
-- 发行资料分支：`codex/release-0.6.2-build16`
-- 对应源码：[Geruyang/AutoGolden_iOS](https://github.com/Geruyang/AutoGolden_iOS/tree/codex/release-0.6.2-build16)
-- 对应源码提交：`f43012c1052dea1b601819c53ce616fc133e6363`
+本地源码位于 `/Users/geruyang/AIProject/AutoGolden-iOS`，发行资料位于 `/Users/geruyang/AIProject/AutoGolden-iOS-release`。开发测试 IPA 与安装脚本已交付到本机桌面，并备份于发行目录 `local/0.6.3-build17/`；此目录不上传 GitHub。公开发行包不包含测试设备登记列表。
 
-## 文档与链接
+旧下划线仓库保留历史与政策网页，应用内已有支持和隐私链接继续可用。新仓库保留原有 Git 历史。本次不改变销售地区、数据源、账户授权方式或功能。
 
-- [发行说明](RELEASE-NOTES-0.6.2.md)
-- [安装与测试说明](INSTALLATION.md)
-- [隐私政策](privacy.html)
-- [支持页面](support.html)
-
-AutoGolden 仅用于伦敦金现货 XAU/USD 的市场研究与教育，不连接银行、券商或支付账户，不执行交易，任何行情、点位、概率或事件分析均不构成投资建议。
-
+原有行情源首次联网检查返回 HTTP 502，复测恢复 HTTP 200 并返回 1000 根小时线；外部服务的间歇性问题已记录于验证报告。

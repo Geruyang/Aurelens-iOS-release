@@ -1,22 +1,9 @@
-# 安装与测试说明
+# 安装 0.6.3（build 17）
 
-## TestFlight（推荐）
+开发者本机桌面已提供 `AutoGolden-0.6.3-build17-iPhone.ipa`、同名 `.ipa.sha256` 文件和 `安装AutoGolden到iPhone.command`。连接并解锁已登记的 iPhone 17 Pro Max，信任此电脑，开启 iOS 开发者模式，然后双击脚本。三个文件需放在同一目录。
 
-构建在 App Store Connect 处理完成并配置测试信息后，开发者可以提供 TestFlight 邀请。外部测试可能需要 Beta App Review。
+脚本先校验完整性、签名、版本与描述文件，再执行安装。`--check` 参数仅做离线检查。请覆盖安装以保留原有数据，不要先卸载。此次交付未进行真机安装或测试。
 
-## App Store
+公开仓库只提供 [App Store 发行包](downloads/AutoGolden-0.6.3-build17-AppStore.ipa)，供开发者使用 Xcode Organizer 或 Transporter 上传，不支持直接侧载。开发包内含设备登记信息，因此只保存在开发者本地。
 
-正式版本获批后，请直接从 App Store 搜索 `AutoGolden` 下载。本次销售范围排除中国大陆。
-
-## 不支持的安装方式
-
-仓库中的 `AutoGolden-0.6.2-build16-AppStore.ipa` 已采用 Apple Distribution 签名，但它是供上传 App Store Connect 的分发包，不能通过拷贝到 iPhone、邮件或“文件”应用直接安装。
-
-## 开发者上传包
-
-核对 [SHA256SUMS.txt](SHA256SUMS.txt) 后，可通过 Apple Transporter、Xcode Organizer 等 Apple 官方方式上传。App Store Connect 应已存在 Bundle ID 为 `com.geruyang.autogolden.apple` 的应用记录。下载 IPA 不代表应用已通过 App Review。
-
-## 报告问题
-
-请通过 [支持页面](support.html) 提交问题，并附上应用版本、iOS 版本、复现步骤和截图（如适用）。请勿公开提交 API Key、密码、验证码、交易账户信息或身份证明。
-
+此版本尚未上传 App Store Connect、配置 TestFlight 或提交审核；公开下载 IPA 不代表已经上架。用户正式安装需等待后续 TestFlight 邀请或 App Store 发布。
