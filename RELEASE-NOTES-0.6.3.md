@@ -8,4 +8,4 @@
 
 支持 iOS/iPadOS 17.0 及以上。已完成本地编译、签名归档和导出；真机测试与 App Store Connect 上传、提交审核待后续执行。现有行情源初次返回 HTTP 502，复测已恢复 HTTP 200；保留原有数据逻辑与演示回退提示。
 
-对应源码提交：`6bf95058cdc3d5d4b63f9a8b6bad5e32e8dd2def`。标签：`v0.6.3-build17`。
+对应源码提交：`a962e9b9fad12c53cefea2f495af2119dbad6294`。标签：`v0.6.3-build17`。
