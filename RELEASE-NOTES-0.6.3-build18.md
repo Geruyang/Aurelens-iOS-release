@@ -1,7 +1,7 @@
 # Aurelens 0.6.3 (build 18) — 2026-09-10
 
-New consumer brand: **Aurelens: Gold Price Forecast**.
-Subtitle: **10 Timeframes, Events & AI**.
+New consumer brand: **Aurelens: Gold Market Insights**.
+Subtitle: **Events & AI, 10 Timeframes**.
 
 Read gold in context: explore two-day and weekly rise/flat/fall probability estimates and 50%/80% return ranges, compare ten chart timeframes, review global event risks, and ask AI using current analysis and necessary manually recorded holding summaries. AI access requires your own API key; provider charges may apply.
 
@@ -18,4 +18,4 @@ Source tag: `v0.6.3-build18`.
 
 App Store IPA SHA-256: `1deb1123ec24a65b26f37372098642791328b456d8551e86b7d7fa60cef2d21e`.
 
-Store-copy follow-up: forecast positioning is now the lead message; calculations use similar historical samples and do not require an AI API key. Estimates are uncertain. [Updated metadata source dc9e46e](https://github.com/Geruyang/AutoGolden-iOS/commit/dc9e46e2ec40e57dc343bbb04820a5bd65bb8605). The IPA, icon, binary-source tag and original verification report are unchanged.
+Final store branding: Aurelens: Gold Market Insights / Events & AI, 10 Timeframes. The same name and subtitle are used across store locales; descriptions remain localized. Two-day and weekly gold probability forecasts remain a core feature in the description. The IPA, icon, binary-source tag and original packaging report are unchanged.

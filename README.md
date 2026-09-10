@@ -1,6 +1,6 @@
-# Aurelens: Gold Price Forecast
+# Aurelens: Gold Market Insights
 
-**10 Timeframes, Events & AI**
+**Events & AI, 10 Timeframes**
 
 Read gold in context. Aurelens brings ten chart timeframes, global event risk and your manually recorded gold holdings into one XAU/USD research workspace.
 
@@ -15,7 +15,7 @@ App interface: English and Simplified Chinese. Store metadata additionally cover
 
 **0.6.3 build 18 — 2026-09-10**
 
-Store copy now leads with gold forecasts. The original build 18 IPA, tag and packaging report are unchanged; current store wording is in the metadata folder.
+The store name and subtitle reflect the final approved branding; gold probability forecasts remain a core feature in the description. The original build 18 IPA, tag and packaging report are unchanged; current store wording is in the metadata folder.
 
 - [Release notes](RELEASE-NOTES-0.6.3-build18.md)
 - [App Store upload IPA](downloads/Aurelens-0.6.3-build18-AppStore.ipa)
