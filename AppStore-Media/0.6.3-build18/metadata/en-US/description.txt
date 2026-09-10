@@ -1,5 +1,8 @@
 Read gold in context.
 
+GOLD FORECASTS: TWO DAYS AND ONE WEEK
+Explore rise, flat and fall probability estimates, the median percentage change, and 50%/80% return ranges derived from similar historical market samples. These research estimates are uncertain, not guaranteed outcomes. Forecast calculations do not require an AI API key.
+
 Aurelens brings ten chart timeframes, global event risk and your manually recorded gold holdings into one XAU/USD research workspace. Move from a short-term price move to the wider trend, then ask your chosen AI provider about the current analysis.
 
 TEN TIMEFRAMES, ONE WIDER VIEW

@@ -1,5 +1,8 @@
 Comprendre l’or dans son contexte.
 
+PRÉVISIONS DE L’OR À DEUX JOURS ET UNE SEMAINE
+Comparez les probabilités estimées de hausse, stabilité et baisse, la variation médiane en pourcentage et les intervalles de rendement à 50 % et 80 %, issus de situations historiques similaires. Ces estimations sont incertaines, sans garantie. Leur calcul ne nécessite pas de clé API d’IA.
+
 Aurelens réunit dix horizons graphiques, les risques liés aux événements mondiaux et vos positions en or saisies manuellement dans un espace de recherche XAU/USD.
 
 DIX HORIZONS

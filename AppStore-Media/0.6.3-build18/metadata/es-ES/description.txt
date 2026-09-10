@@ -1,5 +1,8 @@
 Analiza el oro en contexto.
 
+PREVISIONES DEL ORO A DOS DÍAS Y UNA SEMANA
+Compara probabilidades estimadas de subida, estabilidad y bajada, la variación porcentual mediana y los rangos de rendimiento del 50% y 80%, basados en situaciones históricas similares. Son estimaciones inciertas, sin garantías. Su cálculo no requiere una clave API de IA.
+
 Aurelens reúne diez intervalos de gráficos, riesgos de eventos globales y posiciones de oro registradas manualmente en un espacio de investigación XAU/USD.
 
 DIEZ INTERVALOS

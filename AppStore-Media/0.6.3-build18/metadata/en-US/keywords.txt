@@ -1,1 +1,1 @@
-price,tracker,bullion,spot,chart,technical,analysis,trend,indicator,RSI,MACD,news,calendar,portfolio
+xau,usd,spot,bullion,prediction,outlook,probability,chart,analysis,trend,RSI,MACD,news,portfolio

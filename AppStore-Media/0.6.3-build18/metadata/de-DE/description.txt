@@ -1,5 +1,8 @@
 Gold im Zusammenhang verstehen.
 
+GOLDPROGNOSEN FÜR ZWEI TAGE UND EINE WOCHE
+Vergleichen Sie geschätzte Wahrscheinlichkeiten für Anstieg, Seitwärtsbewegung und Rückgang, die mediane prozentuale Änderung sowie 50%- und 80%-Renditespannen aus ähnlichen historischen Marktsituationen. Unsichere Forschungsschätzungen, keine Garantien. Die Prognoseberechnung benötigt keinen KI-API-Schlüssel.
+
 Aurelens verbindet zehn Chart-Zeitrahmen, globale Ereignisrisiken und manuell erfasste Goldbestände in einer XAU/USD-Rechercheansicht.
 
 ZEHN ZEITRAHMEN
