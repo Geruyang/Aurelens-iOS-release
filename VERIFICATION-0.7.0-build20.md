@@ -1,5 +1,7 @@
 # Aurelens 0.7.0 (build 20) 月度订阅验证报告
 
+> 后续真机补测发现付费解锁失败，build 20 尚不能视为可发布。以下为较早的模拟器/macOS 阶段记录，请同时阅读[真机测试报告](DEVICE-VERIFICATION-0.7.0-build20.md)。
+
 日期：2026-09-14。Xcode 26.6；iOS/iPadOS Simulator 26.5；macOS 26.6.2。
 
 ## 本次变更
@@ -38,4 +40,4 @@
 
 ## 线上收费状态
 
-月度商品仍是本地规格；尚未在本轮 App Store Connect 中创建或核实商品、价格及沙盒支付，网页端认证未确认。Xcode 登录及二进制上传不会代替商品配置。需完成每月 1.00 美元商品设置与应用版本关联后再提交审核。详见 [订阅配置说明](https://github.com/Geruyang/Aurelens-iOS/blob/v0.7.0-build20/docs/Subscriptions-Implementation.md)。现有年度 build 19 及 GitHub 历史材料保留。
+月度商品仍是本地规格；尚未在本轮 App Store Connect 中创建或核实商品、价格及沙盒支付，网页端认证未确认。Xcode 登录及二进制上传不会代替商品配置。需完成每月 1.00 美元商品设置与应用版本关联后再提交审核。详见 [订阅配置说明](https://github.com/Geruyang/Aurelens-iOS/blob/main/docs/Subscriptions-Implementation.md)。现有年度 build 19 及 GitHub 历史材料保留。

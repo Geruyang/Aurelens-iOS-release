@@ -15,4 +15,8 @@ Build 20 offers a USD 1/month auto-renewable plan using `com.geruyang.autogolden
 
 The local monthly product specification is not evidence of an App Store Connect product. Live monthly product setup, storefront pricing, sandbox-server purchases and agreement/bank/tax status remain unverified. Xcode authentication used for binary upload does not provide product-management access.
 
-See [monthly subscription setup](https://github.com/Geruyang/Aurelens-iOS/blob/v0.7.0-build20/docs/Subscriptions-Implementation.md) and [verification report](VERIFICATION-0.7.0-build20.md). Historical build 19 was retained.
+See [monthly subscription setup](https://github.com/Geruyang/Aurelens-iOS/blob/main/docs/Subscriptions-Implementation.md) and [verification report](VERIFICATION-0.7.0-build20.md). Historical build 19 was retained.
+
+## Physical verification follow-up
+
+The subsequent physical-device run found that a completed local monthly purchase did not unlock paid access. Build 20 is not ready for App Review. The uploaded binary hash is unchanged; no duplicate upload or review submission was performed. See [the physical-device report](DEVICE-VERIFICATION-0.7.0-build20.md).

@@ -1,0 +1,18 @@
+{
+  "version": "0.7.0",
+  "build": 20,
+  "readyForReview": false,
+  "physicalCorePassed": 62,
+  "physicalCoreFailed": 6,
+  "physicalPurchaseUI": "failed",
+  "physicalCancellationUI": "passed",
+  "iPadStoreKitFinalPassed": 9,
+  "referencePNGs": 32,
+  "supplementalPNGs": 14,
+  "editedVideos": 9,
+  "nativePNGsByteIdentical": true,
+  "originalUserRecordsByteIdentical": true,
+  "historicalDesktopFilesUnchanged": 274,
+  "historicalReleaseFilesUnchanged": 176,
+  "appStoreIPAsha256": "da8e30d2b25614e2bb6798b18ab9d6682647a5b0927a595aa9e9846d4229cb93"
+}

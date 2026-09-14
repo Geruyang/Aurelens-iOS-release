@@ -28,9 +28,9 @@ New purchases now use a **USD 1/month** U.S. base-price plan with automatic mont
 - [Previous build 19 release](RELEASE-NOTES-0.7.0-build19.md)
 - [Public website](https://geruyang.github.io/Aurelens-iOS-release/)
 
-The binary upload succeeded; Apple reported processing at upload completion. Review has not been submitted. **Live monthly-product configuration and pricing remain outstanding.** The public IPA is an upload artifact, not a directly installable iPhone package. Development packages, device installers and private evidence remain local.
+The binary upload succeeded; Apple reported processing at upload completion. Review has not been submitted. **Live monthly-product configuration and pricing remain unverified.** The public IPA is an upload artifact, not a directly installable iPhone package. Development packages, device installers and private evidence remain local.
 
-Final verification: 203 core tests and 8 UI scenarios passed, with 2 StoreKit purchase UI tests skipped due to unavailable test-runner controls. The report retains earlier failed/interrupted attempts and final rerun evidence. No real payment was made.
+**Not ready for App Review:** physical follow-up found that a completed local monthly purchase does not unlock paid access. The final iPhone core run has 62 passes and 6 failures; purchase UI failed and actual payment-sheet cancellation passed. See the [physical-device report](DEVICE-VERIFICATION-0.7.0-build20.md) and [screenshots / recordings](AppStore-Media/0.7.0-build20/Device-Verification-20260914/). The iPad StoreKit serial rerun passed all 9 scenarios. Earlier simulator/macOS results are retained in the original verification report. No real payment was made.
 
 Source repository: [Geruyang/Aurelens-iOS](https://github.com/Geruyang/Aurelens-iOS) (private). The repositories have been renamed to Aurelens; the bundle identifier and historical releases are retained for continuity.
 

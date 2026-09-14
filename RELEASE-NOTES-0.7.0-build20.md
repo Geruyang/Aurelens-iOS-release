@@ -11,15 +11,16 @@ Payment starts only after you confirm your purchase. Subscriptions renew automat
 
 ## Delivery and verification
 
-- Uploaded successfully to App Store Connect on 2026-09-14 at 16:56:13 UTC. Apple reported processing at upload completion; later processing completion is not verified. App Review has not been submitted.
-- Monthly product: `com.geruyang.autogolden.fullaccess.monthly`. Live product configuration, USD 1.00 U.S. pricing and sandbox-server transactions remain to be completed/verified. Local StoreKit pricing is not evidence of a live product.
-- 203 core tests passed across iPhone/iPad simulators and macOS, plus 8 UI scenarios passed across final reruns. Two StoreKit purchase UI tests were skipped because Xcode runner overrides were unavailable. Earlier failures, interrupted runs and simulator launch errors are documented in [the verification report](VERIFICATION-0.7.0-build20.md). No physical-device test or real charge was performed for this build.
-- Verified unexpired annual entitlements retain their original expiry. The app offers only the new monthly SKU; existing trial records are retained across updates.
-- The public IPA is for App Store upload, not direct iPhone installation. Registered-device development packages and the installer remain local.
+**Not ready for App Review: physical simulated purchase does not unlock paid access.** See [the physical-device report](DEVICE-VERIFICATION-0.7.0-build20.md) and [capture material](AppStore-Media/0.7.0-build20/Device-Verification-20260914/).
 
-Source: [Geruyang/Aurelens-iOS at 4ddbcdb](https://github.com/Geruyang/Aurelens-iOS/commit/4ddbcdbbb3f5a686f647418d65214f69f3cfa168) (private). Application implementation: `dbcfa94`; subsequent changes cover testing and documentation.
+- Final iPhone core: 62 passed, 6 failed. Monthly purchase UI failed; actual cancellation UI passed without a purchased transaction. Real trial and original app records were preserved.
+- Reference capture and five functional scenarios passed on iPhone; iPad reference capture and the final serial StoreKit run (9 tests) passed. Earlier interrupted and failed attempts are documented.
+- 32 reference PNGs, 14 supplemental PNGs and 9 edited, silent native-resolution videos are included. Test pricing is local StoreKit data, not proof of live App Store Connect configuration. No real charge or paid AI request was made.
+- The same binary was uploaded successfully on 2026-09-14 at 16:56:13 UTC. Apple reported processing at upload completion. Later processing completion is unverified; App Review has not been submitted. No duplicate binary upload was made during this test follow-up.
+- Live monthly-product configuration, USD 1.00 U.S. pricing and Apple sandbox-server transactions remain unverified. Resolve and retest the physical unlock failure before review.
+- Public IPA: App Store upload artifact only. Development-signed IPA, installer and private diagnostic data remain local.
 
-Branch: `codex/v0.7.0-build20-monthly`; tag: `v0.7.0-build20`.
+Source: [Geruyang/Aurelens-iOS at 9ee5011](https://github.com/Geruyang/Aurelens-iOS/commit/9ee5011d288c003506103988440bf221a1ad090a) (private). Application implementation remains `dbcfa94`; this follow-up changes only tests, capture tooling and records.
+
+Branch: `codex/v0.7.0-build20-monthly`. Existing `v0.7.0-build20` and historical tags are unchanged.
 App Store IPA SHA-256: `da8e30d2b25614e2bb6798b18ab9d6682647a5b0927a595aa9e9846d4229cb93`.
-
-Historical builds, files and release tags are retained.
