@@ -1,0 +1,25 @@
+Comprendre l’or dans son contexte.
+
+PRÉVISIONS DE L’OR À DEUX JOURS ET UNE SEMAINE
+Comparez les probabilités estimées de hausse, stabilité et baisse, la variation médiane en pourcentage et les intervalles de rendement à 50 % et 80 %, issus de situations historiques similaires. Ces estimations sont incertaines, sans garantie. Leur calcul ne nécessite pas de clé API d’IA.
+
+Aurelens réunit dix horizons graphiques, les risques liés aux événements mondiaux et vos positions en or saisies manuellement dans un espace de recherche XAU/USD.
+
+DIX HORIZONS
+Comparez les graphiques de 1, 5, 15 et 30 minutes, 1 et 4 heures, puis les vues quotidienne, hebdomadaire, mensuelle et annuelle. Examinez le consensus entre horizons avec EMA, RSI, MACD, ATR, ADX et volatilité.
+
+LES ÉVÉNEMENTS À CÔTÉ DES GRAPHIQUES
+Consultez les risques récents, à venir et persistants, ainsi que les actualités de l’or avec liens vers les sources. Les probabilités et intervalles à deux jours et une semaine sont des estimations incertaines, sans garantie.
+
+UNE IA AVEC DU CONTEXTE
+Après votre consentement, interrogez OpenAI, DeepSeek ou GLM sur l’analyse actuelle et les résumés nécessaires de vos positions manuelles. Votre propre clé API est requise ; le fournisseur peut facturer son service. Les clés sont conservées dans Keychain.
+
+UN SUIVI MANUEL
+Enregistrez vos positions, consultez les gains ou pertes de référence en USD ou CNY, prévisualisez les modifications et annulez-les. L’app ne se connecte pas aux comptes de courtage et n’exécute aucune transaction.
+
+L’interface est disponible en anglais et en chinois simplifié uniquement. Cette fiche française n’ajoute pas d’interface française. Les données et réponses de l’IA peuvent être retardées, incomplètes ou inexactes. Recherche et information uniquement, sans conseil en investissement.
+
+Profitez de 3 jours gratuits dès la première ouverture, sans prélèvement automatique à la fin de l’essai. Un abonnement annuel est ensuite nécessaire. Prix de base aux États-Unis : 3 USD par an ; le prix local est affiché dans l’App Store. Le paiement commence uniquement après confirmation de l’achat. L’abonnement acheté se renouvelle chaque année, sauf résiliation au moins 24 heures avant la fin de la période. Restaurez vos achats et gérez ou résiliez votre abonnement dans l’app. Les frais d’API du fournisseur d’IA sont séparés.
+
+Terms / EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy: https://geruyang.github.io/Aurelens-iOS-release/privacy.html

@@ -1,0 +1,25 @@
+Leggi l’oro nel suo contesto.
+
+PREVISIONI ORO A DUE GIORNI E UNA SETTIMANA
+Confronta probabilità stimate di rialzo, stabilità e ribasso, variazione percentuale mediana e intervalli di rendimento al 50% e 80%, basati su situazioni storiche simili. Sono stime incerte, senza garanzie. Il calcolo delle previsioni non richiede una chiave API IA.
+
+Aurelens riunisce dieci intervalli grafici, i rischi degli eventi globali e le posizioni in oro inserite manualmente in uno spazio di ricerca XAU/USD.
+
+DIECI INTERVALLI
+Confronta grafici a 1, 5, 15 e 30 minuti, 1 e 4 ore, giornalieri, settimanali, mensili e annuali. Valuta il consenso tra intervalli con EMA, RSI, MACD, ATR, ADX e volatilità.
+
+EVENTI ACCANTO AI GRAFICI
+Esamina rischi recenti, imminenti e persistenti e notizie sull’oro con link alle fonti. Probabilità e intervalli a due giorni e una settimana sono stime incerte, senza garanzie.
+
+IA CON CONTESTO
+Dopo il consenso, chiedi a OpenAI, DeepSeek o GLM informazioni sull’analisi attuale e sui riepiloghi necessari delle posizioni manuali. Serve una chiave API propria; il fornitore può applicare costi. Le chiavi sono salvate in Keychain.
+
+POSIZIONI MANUALI
+Registra posizioni, consulta profitti o perdite indicativi in USD o CNY, visualizza le modifiche in anteprima e annullale. L’app non collega conti di intermediazione e non esegue operazioni.
+
+L’interfaccia supporta solo inglese e cinese semplificato. Questa descrizione italiana non aggiunge un’interfaccia italiana. Dati e risposte IA possono essere ritardati, incompleti o inesatti. Solo ricerca e formazione sui mercati, non consulenza finanziaria.
+
+Prova gratuita di 3 giorni dalla prima apertura, senza addebito automatico alla scadenza. In seguito è richiesto un abbonamento annuale. Prezzo base negli Stati Uniti: 3 USD all’anno; il prezzo locale è indicato nell’App Store. Il pagamento inizia solo dopo la conferma dell’acquisto. L’abbonamento acquistato si rinnova ogni anno, salvo disdetta almeno 24 ore prima della fine del periodo. Puoi ripristinare gli acquisti e gestire o annullare l’abbonamento nell’app. Le tariffe API del fornitore IA sono separate.
+
+Terms / EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy: https://geruyang.github.io/Aurelens-iOS-release/privacy.html

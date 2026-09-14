@@ -1,9 +1,11 @@
-# Install Aurelens 0.6.3 (build 18)
+# Install Aurelens 0.7.0 (build 19)
 
-The developer’s Mac desktop contains `Aurelens-0.6.3-build18-iPhone.ipa`, its `.ipa.sha256` checksum and `安装Aurelens到iPhone.command`. Keep all three together. Connect and unlock the registered iPhone 17 Pro Max, trust the Mac, enable Developer Mode and run the script. Use an in-place update to retain existing data.
+The developer's Mac desktop and local release folder contain `Aurelens-0.7.0-build19-iPhone.ipa`, its `.ipa.sha256` file and `安装Aurelens-build19到iPhone.command`. Keep the three files together. Connect and unlock the registered iPhone, trust the Mac, enable Developer Mode, and run the script. An in-place update retains existing app data. `--check` performs offline package verification only.
 
-The script checks the checksum, signature, bundle identifier, version and development profile before installation. `--check` performs offline verification only. The original packaging delivery did not install the app. On 10 September 2026, navigation and capture checks passed on an iPhone 17 Pro Max already running build 18; a separate iPad simulator capture also passed. See [capture evidence](CAPTURE-0.6.3-build18-round2.md).
+The script checks SHA-256, signature, bundle identifier, version and development provisioning profile. The development IPA is kept local because it contains registered-device information.
 
-The public [App Store IPA](downloads/Aurelens-0.6.3-build18-AppStore.ipa) is for developer upload through Xcode Organizer or Transporter and cannot be directly sideloaded. The development IPA is retained locally because it contains registered-device information.
+The public [App Store IPA](downloads/Aurelens-0.7.0-build19-AppStore.ipa) is for developer upload and cannot be directly sideloaded. Build 19 was successfully uploaded to App Store Connect on 14 September 2026; processing completion, TestFlight availability and App Store review/release have not been confirmed.
 
-This build has not been uploaded to App Store Connect, enabled in TestFlight or submitted for review. Public installation will require a future TestFlight invitation or App Store release.
+Physical iPhone 17 Pro Max testing and iPad simulator testing are documented in [the build 19 verification report](VERIFICATION-0.7.0-build19.md). Simulated subscriptions used Xcode StoreKit Testing and did not cause real charges. Production subscriptions still require App Store Connect product setup.
+
+Historical packages, materials and release tags retain their original names.
