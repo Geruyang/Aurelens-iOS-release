@@ -1,0 +1,1 @@
+goldpreis,chart,edelmetall,kurs,indikatoren,trend,nachrichten,kalender,RSI,MACD

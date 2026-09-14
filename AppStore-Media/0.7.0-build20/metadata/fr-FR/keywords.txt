@@ -1,0 +1,1 @@
+cours,prix,lingot,métaux,graphique,tendance,indicateurs,actualités,portefeuille

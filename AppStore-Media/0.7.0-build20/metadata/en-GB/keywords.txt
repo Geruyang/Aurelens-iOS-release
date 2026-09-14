@@ -1,0 +1,1 @@
+xau,usd,spot,bullion,prediction,outlook,probability,chart,analysis,trend,RSI,MACD,news,portfolio
