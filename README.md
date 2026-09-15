@@ -17,7 +17,7 @@ App interface: English and Simplified Chinese. Store metadata additionally cover
 
 This update fixes paid-access recognition after a verified monthly purchase, including relaunch and restoration, while preserving conservative expiry and refund handling. The intended U.S. plan remains **USD 1/month**, automatically renewing unless cancelled. The first-open 3-day trial ends without an automatic charge; users choose to subscribe. Existing trial records, verified annual entitlements and gold research features are retained.
 
-- [GitHub release and downloads](https://github.com/Geruyang/Aurelens-iOS-release/releases/tag/v0.7.0-build21)
+- [GitHub release and downloads](https://github.com/Geruyang/Aurelens-iOS-release/releases/tag/v0.7.0-build21-release)
 - [Release notes](RELEASE-NOTES-0.7.0-build21.md)
 - [App Store upload IPA](downloads/Aurelens-0.7.0-build21-AppStore.ipa)
 - [Build 21 checksums](SHA256SUMS-0.7.0-build21.txt)

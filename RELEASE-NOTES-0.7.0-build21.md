@@ -23,3 +23,5 @@ Gold market insights, probability forecasts, global events and all 10 chart time
 Source: [Geruyang/Aurelens-iOS at 47a7b05](https://github.com/Geruyang/Aurelens-iOS/commit/47a7b050fe6742d6c45d806c4edab44971faaed1) (private). Version branch: `codex/v0.7.0-build21-subscription-fix`. Existing release files and historical version tags are unchanged.
 
 App Store IPA SHA-256: `e631cf67f1a95f3410e035bc7ffbe8e109b1a4bfb363ccfbb22e8fcec0940e03`.
+
+Final release tag: `v0.7.0-build21-release`. The earlier `v0.7.0-build21` checkpoint is retained. This finalization removes two Git-internal paths from the public checksum list; application binaries and media are unchanged.

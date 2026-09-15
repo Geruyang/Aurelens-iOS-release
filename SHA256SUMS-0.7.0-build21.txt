@@ -1,5 +1,3 @@
-6e6dc18ea63fdb96ea5ed8efe7c8c4ca7f8edf58536f1e7a4ff9f49321a98d14  .git/logs/refs/heads/codex/v0.7.0-build21-subscription-fix
-8e72c623b5ef03461621194e0a9727c18c2fe03d929f838601249f1eeb0c2208  .git/refs/heads/codex/v0.7.0-build21-subscription-fix
 a171f3db780dd8d2d6d92fafaa26bef6f617a8fbf91db12bd5ca4b558346bfec  APPSTORE-UPLOAD-0.7.0-build21.md
 f494aad3c70f63071f4482ba17acfe33ff1892f35d58d1a899ee02d5e51b861a  AppStore-Media/0.7.0-build21/AppIcon-1024.png
 dd6192e921e030776a533fa7dd7bde5c63e9f320a403464f1ba62708ac19106e  AppStore-Media/0.7.0-build21/Device-Verification-20260914/AppStore-Upload-0.7.0-build21.md
@@ -115,7 +113,7 @@ b186414a109cd9c06740f35535ef0a74d164b74f20d5f448c20f674e44340ecb  AppStore-Media
 30d12477772517f2d8615339e34fc89cae089fee694d589af33c1af9c67c6d0d  AppStore-Media/0.7.0-build21/metadata/zh-Hans/release_notes.txt
 ed6229a43ad1128b69e0054460691875eb8015b477775d4add21601d39f6644f  AppStore-Media/0.7.0-build21/metadata/zh-Hans/subtitle.txt
 728db3babf9f8638e695b8d7c650404114adedd55159e59a711914d33805a9c5  DEVICE-VERIFICATION-0.7.0-build21.md
-4e3ce6f89acea44e8fc71cdc42f8e394f3718ad82865f326c22a0be75e4f2301  RELEASE-NOTES-0.7.0-build21.md
+3eecc3e71a06704dee15ee520888da1e262a94841f5ce72e92705a6e7b06f622  RELEASE-NOTES-0.7.0-build21.md
 4a67f86fc51a640128991171d4982bfb0d8f7a76b5141e4358f85801d5598d77  SUBSCRIPTIONS-IMPLEMENTATION-0.7.0-build21.md
 94580cc711ee566e14ad43c41d17018a66b2acf84bf8b7e3815e40114e36c686  VERIFICATION-0.7.0-build21.md
 e631cf67f1a95f3410e035bc7ffbe8e109b1a4bfb363ccfbb22e8fcec0940e03  downloads/Aurelens-0.7.0-build21-AppStore.ipa
