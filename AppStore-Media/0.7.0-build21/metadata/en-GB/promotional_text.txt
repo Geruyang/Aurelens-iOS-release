@@ -1,0 +1,1 @@
+Explore two-day and weekly gold forecasts: rise, flat and fall probabilities, return ranges, ten timeframes and event risk. AI Q&A needs your own API key.

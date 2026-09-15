@@ -1,0 +1,3 @@
+Esta actualización corrige un problema que podía impedir el acceso después de una compra mensual verificada. Mejora el reconocimiento de la suscripción al volver a abrir la app o restaurar las compras, y la gestión de vencimientos y reembolsos.
+
+Prueba gratuita de 3 días desde la primera apertura, sin cobro automático al finalizar. Después se necesita una suscripción mensual. Precio base en EE. UU.: 1 USD al mes; el App Store muestra el precio local. El cobro comienza solo al confirmar la compra. La suscripción adquirida se renueva mensualmente, salvo cancelación al menos 24 horas antes de finalizar el periodo. Puedes restaurar compras y gestionar o cancelar la suscripción desde la app. Las tarifas de API del proveedor de IA son independientes.

@@ -1,0 +1,402 @@
+[
+  {
+    "file": "cn001.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "8a2f1bcf0667f491fb4612b0ef86915c9e5cfe75978f14eae3b8d49762dc2822",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn007.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "ae59c640ea8e58bdf40ad73103f2a1d04b19d4c033650663e910bf96ba373a97",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn006.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "71e96ae1c8560d3b418f5d40c74636e80c77c2fc3a86fa47eba634fd8d85b77c",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn002.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "0272d63deb3ff3e1bac92fa4864cf42acec546cce7e3fb6aaadb15ac2dd5bd7d",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn005.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "a3e96f2a4359a8fc4aec143c8a3bd9e6218192e8659b7e9dca4e4d8f51006214",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn004.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "9bb529797e37103a711acc87e7daf7c9ca2199fd37ce4363b5fa002fcaa250e4",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn008.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "5bb3950a53ae2996699517b3dbdf62f77e8664e2494afe9b48076283e36bb619",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn003.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "ab1849e74367400efa66a672ff9c805ea5b4e45b050fa7b6fadab04ba40f2db9",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en007.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "8278472bdd4b87edbd0d8554c25908ae6cbe4fc5d637ba3d2da39469eb6fca60",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en002.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "85f1e70bde6621f824c7b6365c3cfff59e260c366d29ac13d5af92f7c802bd3d",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en004.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "5dd74f5c40979c8597437136fad7b125a4a2d815cd08994ae4866e80456e3881",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en001.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "69574d81661e798a4e45e4c20c7f97baedf1d618fa949a6be3b709fd20beed1d",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en005.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "e3c9e6ab76ab14c842b5e02173ed25e04bb36fe44f8b20592a60cf321a67f20c",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en006.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "e361b7f6018f4c0e9e953b66701b276e0bce70564597c46f6e8b3ce06f24802c",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en008.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "e705c804c0519c7cf04e37d799116a93e8c348cf225c60adcf0b5ef8473c1b27",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "en003.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "e24df1c3bcde567c7091a61961b32d0e5ef29a65d6ffaa4c5137b0e9165ce531",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/risk-declined-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test02RiskDeclineAndReview()",
+    "sha256": "5631e3f87ebb5c26e6a4676ec3b9f77bcb815203c196063b248a5c8d351c07e4",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/trial-deadline-preserved-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test03TrialPersistsAcrossRelaunchBackgroundAndRetry()",
+    "sha256": "6cc543e56168309c8120b7f109b7adf877881affa4f70ed06c04002ef5765139",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/subscription-legal-links-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test03TrialPersistsAcrossRelaunchBackgroundAndRetry()",
+    "sha256": "b7b4bfe8f176fefdab09815dca90b260ecaa8ef610eda38584aac302576b7d2c",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/ten-timeframes-chart-controls-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test04TenTimeframesAndChartControls()",
+    "sha256": "69f49b4aa07e8cde2e9fcdcb534c55c01523b8b74aa15d2ea231247b56e48a26",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/manual-position-undone-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test05ManualPositionUpdateAndUndo()",
+    "sha256": "830d6ab57b2538763a253cd225280ac0d0768a8b742efab75d9abc4e78f99e8f",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/manual-position-updated-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test05ManualPositionUpdateAndUndo()",
+    "sha256": "5deb9037243d3ee19105a8567a5a2b3748d7fdf9bb4188e22c53b3211951cab3",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/foreground-refresh-paused-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test06PauseResumeForegroundRefresh()",
+    "sha256": "863789e9f0dfc40149873b57014a1e7784c564ba7d4181003c363ee879536303",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-refund-returns-to-trial-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testDisplayedMonthlyPricePurchaseAndUnlock()",
+    "sha256": "b26e476ba658d6f149da79b7d2dff7b8b4d066a1936f102319c4a18fdd4ba102",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-expiry-returns-to-trial-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testDisplayedMonthlyPricePurchaseAndUnlock()",
+    "sha256": "b26e476ba658d6f149da79b7d2dff7b8b4d066a1936f102319c4a18fdd4ba102",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-subscription-restored-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testDisplayedMonthlyPricePurchaseAndUnlock()",
+    "sha256": "808d8e80c3ad11b059e8b569de8f9c75460262369d02a0492e3aa5badd907598",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-paid-access-after-relaunch-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testDisplayedMonthlyPricePurchaseAndUnlock()",
+    "sha256": "e8d9045a7e13790594a3af86ce114091cc537ebd60f5ff7feecb51a68ae2103b",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-monthly-subscription-active-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testDisplayedMonthlyPricePurchaseAndUnlock()",
+    "sha256": "e8d9045a7e13790594a3af86ce114091cc537ebd60f5ff7feecb51a68ae2103b",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-purchase-access-result-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testDisplayedMonthlyPricePurchaseAndUnlock()",
+    "sha256": "e8d9045a7e13790594a3af86ce114091cc537ebd60f5ff7feecb51a68ae2103b",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/monthly-price-purchase-screen.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testDisplayedMonthlyPricePurchaseAndUnlock()",
+    "sha256": "e423638200c86c5788d0da0a6d6758655fbc69b3a07807502b65886179c805dc",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-user-cancelled-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testSimulatedPurchaseCancellationKeepsTrial()",
+    "sha256": "387e0116173f16594fc2c2942521c7842493e42653d8ce65a33e5ce142210d75",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "模拟订阅-真机/simulated-apple-purchase-sheet-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "SubscriptionPurchaseUITests/testSimulatedPurchaseCancellationKeepsTrial()",
+    "sha256": "12521a009dfd52b54e76ae57ab7f112a6e84bf02d2d10a77fa8983c6fd59b02a",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/final-original-position-and-trial-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test99RestoredReleaseTrialAndOriginalDisplay()",
+    "sha256": "db5a3ad7314b285b46657aa1d75ecd4690475a7ca9e9500326f267d713380d43",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "功能检查-真机/final-original-settings-and-trial-physical.png",
+    "device": "iPhone-17-Pro-Max",
+    "test": "CaptureTests/test99RestoredReleaseTrialAndOriginalDisplay()",
+    "sha256": "0e530b77f7fa480694733a45f7b7b58380291725682fd14a8092d65914262270",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "file": "cn015.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "c26167fbfc074b0a2daa14cd2e52a52d33f52fcada8a42fa6d043e3bd0090eb7",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "cn016.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "e20c5b7cec71d55896678913d4ecd943daab2c4c485d6a03b696d8f09682f836",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "cn013.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "97927a71b6d23ca0c7f5c0188bb0a508469c32ca9a8b85c6c7a6fb1ac3832e35",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "cn014.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "faa388f60e1c001db29886460349cc2421792c0dff046766d2bdd9a935beb13a",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "cn011.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "131c3b1946f23c137a3905b1d30fff0ef02f46ef3c10adeb22b9eaa5c46393be",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "cn017.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "a673cb5a72d1ed435486b4ea18dc77f9291bbc13fdbf45de7138db8da0c42251",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "cn018.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "b8c8b29e72bcb42b16058652c17e08130da10af3dbaf7eaa551c8f2cc822013e",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "cn012.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "4193bd8d30d6c27da9c7cf1f5091176cbcbeca77c561b37558cf8191cf1d097b",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en014.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "1f627d692a50d31780bc36c38a552e14af45989fde6525d49f50e7b75a680eef",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en012.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "80f36819e14c8d535b9bc87b7645421ec4ff392187e975488f4b22495fb6ce2e",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en017.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "3101f5648aacc77035781309e4760d5fc0fc938d7853733ba232e4617a52eacd",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en013.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "1ddcded59f965c3887ca9dc38bac96ee13baddf4111282dab06961dfbf96f45f",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en011.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "cdb81a99c0f870ef4d05704e371890f5b1785fa7302c068ab6de460fc1635e2f",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en016.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "b8c1d5a68b6f753e38a26ecd137c29bec6f70ca2762be444aec9ac57bf67de66",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en018.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "c0ee36ba29fc21829a12ac4ac8e1ed0b977e486446c5f8259af802fb0b5a9e67",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "file": "en015.png",
+    "device": "iPad-Pro-13-M5-Simulator",
+    "test": "CaptureTests/test01Build21ReferenceCapture()",
+    "sha256": "5ab1d017872baef08928cccc4afb01b915b007d0fa4df70a58d81dc81ecda5f0",
+    "width": 2064,
+    "height": 2752
+  }
+]

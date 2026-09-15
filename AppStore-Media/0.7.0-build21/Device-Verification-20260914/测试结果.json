@@ -1,0 +1,155 @@
+{
+  "build": "0.7.0 (21)",
+  "applicationCommit": "42c5642cb7b563982bb50180bccfeb77d35d150e",
+  "corePasses": 285,
+  "functionalAndCapturePasses": 304,
+  "preparationVerificationAndRestorationPasses": 7,
+  "selectedBundlePasses": 311,
+  "notes": "The one purchase UI skip in the ordinary iPhone simulator bundle was subsequently covered by the separately passing hosted purchase UI and transaction verification. Initial failed attempts remain in the local evidence and are documented in the report. Local StoreKit testing only; no real charge or Apple sandbox-server verification.",
+  "results": [
+    {
+      "resultBundle": "iPhone-core-release-code-final.xcresult",
+      "passed": 70,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431426.836,
+      "finishTime": 1789431432.991
+    },
+    {
+      "resultBundle": "iPhone-sim-core-final.xcresult",
+      "passed": 72,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789430371.711,
+      "finishTime": 1789430399.345
+    },
+    {
+      "resultBundle": "iPad-core-final.xcresult",
+      "passed": 72,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431625.915,
+      "finishTime": 1789431655.465
+    },
+    {
+      "resultBundle": "mac-core-isolated-final.xcresult",
+      "passed": 71,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431406.896,
+      "finishTime": 1789431425.528
+    },
+    {
+      "resultBundle": "iPhone-purchase-release-code-final.xcresult",
+      "passed": 2,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431433.971,
+      "finishTime": 1789431526.751
+    },
+    {
+      "resultBundle": "iPhone-release-reference-functional-final.xcresult",
+      "passed": 6,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789430581.174,
+      "finishTime": 1789431060.491
+    },
+    {
+      "resultBundle": "iPhone-sim-ui-final.xcresult",
+      "passed": 4,
+      "failed": 0,
+      "skipped": 1,
+      "startTime": 1789430537.807,
+      "finishTime": 1789430743.399
+    },
+    {
+      "resultBundle": "iPhone-sim-hosted-purchase-final.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431163.273,
+      "finishTime": 1789431185.354
+    },
+    {
+      "resultBundle": "iPad-ui-final.xcresult",
+      "passed": 4,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431657.141,
+      "finishTime": 1789431799.299
+    },
+    {
+      "resultBundle": "ipad-storekit-ui-reboot/purchase.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789432699.455,
+      "finishTime": 1789432761.356
+    },
+    {
+      "resultBundle": "iPad-release-reference-final.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789432783.702,
+      "finishTime": 1789433033.782
+    },
+    {
+      "resultBundle": "iPhone-sim-fixture-prepare.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431092.432,
+      "finishTime": 1789431111.606
+    },
+    {
+      "resultBundle": "iPhone-sim-fixture-verify.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431196.494,
+      "finishTime": 1789431201.759
+    },
+    {
+      "resultBundle": "ipad-storekit-ui-reboot/prepare.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789432678.998,
+      "finishTime": 1789432696.227
+    },
+    {
+      "resultBundle": "ipad-storekit-ui-reboot/verify.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789432762.759,
+      "finishTime": 1789432766.183
+    },
+    {
+      "resultBundle": "ipad-storekit-ui-reboot/cleanup.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789432767.25,
+      "finishTime": 1789432770.445
+    },
+    {
+      "resultBundle": "phone-data-restored.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431592.918,
+      "finishTime": 1789431616.225
+    },
+    {
+      "resultBundle": "phone-final-state.xcresult",
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "startTime": 1789431665.525,
+      "finishTime": 1789431698.055
+    }
+  ]
+}

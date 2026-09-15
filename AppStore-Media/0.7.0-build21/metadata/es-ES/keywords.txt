@@ -1,0 +1,1 @@
+precio,lingotes,metales,cotización,gráficos,tendencia,indicadores,noticias,cartera

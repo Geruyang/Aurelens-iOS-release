@@ -1,0 +1,1 @@
+Goldprognosen für zwei Tage und eine Woche: Wahrscheinlichkeiten, Renditespannen, zehn Zeitrahmen und Ereignisse. KI-Fragen benötigen einen eigenen API-Schlüssel.

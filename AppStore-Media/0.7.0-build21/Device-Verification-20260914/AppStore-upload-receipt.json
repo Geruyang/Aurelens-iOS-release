@@ -1,0 +1,14 @@
+{
+  "version": "0.7.0",
+  "build": "21",
+  "bundleIdentifier": "com.geruyang.autogolden.apple",
+  "appStoreAppId": "6808663544",
+  "status": "uploaded",
+  "appleProcessing": "processing at upload completion; later completion unverified",
+  "uploadCompletedAt": "2026-09-15T00:46:33Z",
+  "appReviewSubmitted": false,
+  "appStoreExportSHA256": "e631cf67f1a95f3410e035bc7ffbe8e109b1a4bfb363ccfbb22e8fcec0940e03",
+  "appImplementationCommit": "42c5642cb7b563982bb50180bccfeb77d35d150e",
+  "archive": "Aurelens-0.7.0-build21-final.xcarchive",
+  "artifactNote": "The public IPA and the uploaded package were exported from this same final archive. Separate exports are not claimed byte-identical."
+}

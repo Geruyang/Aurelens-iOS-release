@@ -1,0 +1,8 @@
+This update improves monthly subscription access and reliability.
+
+• Fixed an issue where a verified monthly purchase could leave the app in trial mode.
+• Improved access after reopening the app and restoring purchases, with correct handling of expiration and refunds.
+• Monthly access is USD 1 per month in the U.S. and renews automatically unless cancelled. Your local App Store displays the actual price.
+• Your 3-day first-launch trial remains free and does not charge you automatically when it ends. Choose a subscription manually to continue.
+
+Gold market insights, probability forecasts, global events and all 10 chart timeframes remain available with access. AI provider API charges are separate.
