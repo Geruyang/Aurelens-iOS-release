@@ -13,26 +13,27 @@ App interface: English and Simplified Chinese. Store metadata additionally cover
 
 ## Current developer release
 
-**0.7.0 build 21 — 2026-09-14 PDT**
+**0.7.0 build 22 — 2026-09-16 PDT**
 
-This update fixes paid-access recognition after a verified monthly purchase, including relaunch and restoration, while preserving conservative expiry and refund handling. The intended U.S. plan remains **USD 1/month**, automatically renewing unless cancelled. The first-open 3-day trial ends without an automatic charge; users choose to subscribe. Existing trial records, verified annual entitlements and gold research features are retained.
+This update fixes startup loading that could wait indefinitely for App Store or external data services. Trial access is checked locally, market loading runs independently of news and calendars, and stalled requests have bounded waits. App features and interface are unchanged. The intended plan remains **USD 1/month**, automatically renewing unless cancelled; the first-open 3-day trial does not automatically charge the user.
 
-- [GitHub release and downloads](https://github.com/Geruyang/Aurelens-iOS-release/releases/tag/v0.7.0-build21-release)
-- [Release notes](RELEASE-NOTES-0.7.0-build21.md)
-- [App Store upload IPA](downloads/Aurelens-0.7.0-build21-AppStore.ipa)
-- [Build 21 checksums](SHA256SUMS-0.7.0-build21.txt)
-- [Verification report](VERIFICATION-0.7.0-build21.md)
-- [App Store Connect upload receipt](APPSTORE-UPLOAD-0.7.0-build21.md)
-- [50 screenshots / 9 edited recordings](AppStore-Media/0.7.0-build21/Device-Verification-20260914/)
-- [Physical-device report](DEVICE-VERIFICATION-0.7.0-build21.md)
-- [Icon and store metadata](AppStore-Media/0.7.0-build21/)
+- [GitHub release and downloads](https://github.com/Geruyang/Aurelens-iOS-release/releases/tag/v0.7.0-build22-release)
+- [Release notes](RELEASE-NOTES-0.7.0-build22.md)
+- [App Store upload IPA](downloads/Aurelens-0.7.0-build22-AppStore.ipa)
+- [Build 22 checksum](SHA256SUMS-0.7.0-build22.txt)
+- [Verification report](VERIFICATION-0.7.0-build22.md)
+- [App Store Connect upload receipt](APPSTORE-UPLOAD-0.7.0-build22.md)
 - [Installation information](INSTALLATION.md)
+- [Existing screenshots and recordings, captured on build 21](AppStore-Media/0.7.0-build21/Device-Verification-20260914/)
+- [Previous build 21](RELEASE-NOTES-0.7.0-build21.md)
 - [Historical build 20 and its failure record](RELEASE-NOTES-0.7.0-build20.md)
 - [Previous annual build 19](RELEASE-NOTES-0.7.0-build19.md)
 
-**285 core tests passed**, with 304 final functional/capture checks in total plus 7 fixture/verification/restoration checks. Physical purchase, relaunch, restoration, expiry, refund and payment-sheet cancellation passed using local StoreKit simulation. Earlier test failures and the separately covered simulator purchase skip remain documented. No real charge was made; original phone data was restored.
+**398 core test executions passed**: 79 cases × 3 rounds on the physical iPhone, 81 on iPad simulator and 80 on macOS. Final Release UI checks passed five cold launches and five foreground returns on each iOS device, main-page navigation and a simulator reinstall check. Earlier failed/interrupted attempts and their resolution are documented. No real charge was made, and no new screenshots or recordings were generated.
 
-The binary upload succeeded at 2026-09-15 00:46:33 UTC; Apple reported processing. Review was not submitted. **Live monthly-product configuration, pricing and Apple sandbox-server purchases remain unverified**, so delivery remains a prerelease. The public IPA is an upload artifact, not a directly installable iPhone package. Development packages, device installers and private evidence remain local.
+The [App Store Connect upload succeeded](APPSTORE-UPLOAD-0.7.0-build22.md) at 2026-09-16 12:09:19 UTC; Apple reported processing. Later processing completion is unverified.
+
+The physical iPhone ran iOS 27.0; the iPad Air 11-inch M3 simulator ran iPadOS 26.5. The exact review runtime, iPadOS 26.6, was unavailable locally. **Live monthly-product configuration, pricing and Apple sandbox-server purchases remain unverified**, so delivery remains a prerelease. The public IPA is an upload artifact, not a directly installable iPhone package. Development packages, installers and private evidence remain local. App Review is not automatically submitted.
 
 Source repository: [Geruyang/Aurelens-iOS](https://github.com/Geruyang/Aurelens-iOS) (private). The repositories have been renamed to Aurelens; the bundle identifier and historical releases are retained for continuity.
 
